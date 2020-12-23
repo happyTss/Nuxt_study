@@ -1,5 +1,8 @@
 <template>
   <div>
+    <nuxt-link to="/">首页</nuxt-link>
+    <nuxt-link to="/demo1">demo1</nuxt-link>
+    <nuxt-link to="/demo2">demo2</nuxt-link>
     <Nuxt />
   </div>
 </template>
